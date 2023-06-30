@@ -2,10 +2,7 @@ package home_assignment_12;
 
 public class Assignment1 {
     public static void main(String[] args) {
-        /*
-            1.Kreirati niz od 5 clanova i odstampati prvi clan
-            (Tip izaberite sami)
-         */
+        
             String[] nekeSuperKnjige = new String[5];
             nekeSuperKnjige[0] = "The Ocean at the End of the Lane";
             nekeSuperKnjige[1] = "Mistborn";
@@ -14,7 +11,5 @@ public class Assignment1 {
             nekeSuperKnjige[4] = "The Nightingale";
 
         System.out.println(nekeSuperKnjige[0]);
-
-
     }
 }
