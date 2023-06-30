@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class Assignment1 {
     public static void main(String[] args) {
-        /*
-        1.Preko skenera uneti godinu,
-          program treba da izracuna da li je godina prestupna.
-         */
+        
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a year: ");
         int year = sc.nextInt();
