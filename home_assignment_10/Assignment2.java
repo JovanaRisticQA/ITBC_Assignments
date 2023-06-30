@@ -4,13 +4,7 @@ import java.util.Scanner;
 
 public class Assignment2 {
     public static void main(String[] args) {
-        /*
-        2.Napraviti promenljive "username" i "password" i definisati neke vrednosti po zelji.
-        Korisnik unosi preko skenera dve vrednosti koje bi trebale da predstavljaju username i password
-        i program treba da ih uporedi.
-        Ako su username i password tačni, ispisati "Uspešno ste se ulogovali",
-        a ako je jedno od ta dva pogrešno ispisati istu poruku "Pogrešan username ili password".
-         */
+        
         Scanner sc = new Scanner(System.in);
 
         String username = "MyUsername";
